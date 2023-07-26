@@ -1,4 +1,15 @@
 # Principal-Component-Analysis-of-Biological-Images
+Top eight eigenvectors.
+![Top eight eigenvectors](https://github.com/John-CU-Ahn/Principal-Component-Analysis-of-Biological-Images/assets/140204157/0ca374ec-fb05-4f05-8730-c6ef5d6af8e3)
+
+Percent variance explained.
+![Percent variance explained](https://github.com/John-CU-Ahn/Principal-Component-Analysis-of-Biological-Images/assets/140204157/a7f9a0d8-ebe6-49c2-bd46-480f389a1aac)
+
+PC1-4.
+![PC1-4](https://github.com/John-CU-Ahn/Principal-Component-Analysis-of-Biological-Images/assets/140204157/f04bb162-9b1f-491c-b9b6-b75c42d695e0)
+
+PC5-8.
+![PC5-8](https://github.com/John-CU-Ahn/Principal-Component-Analysis-of-Biological-Images/assets/140204157/6488e121-d8a1-4040-9454-a4c58663accd)
 
 ## Description
 Principal component analysis (PCA) is a powerful dimensionality reduction technique that reduces a large amount of variables that could explain trends in data to just a few parameters.
